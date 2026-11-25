@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+cotacoes.db
+.pytest_cache/
